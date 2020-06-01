@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css","App.css"],"names":[],"mappings":"AAAA,UACI,eAAiB,CACjB,iBAAkB,CAClB,iBAAkB,CAClB,aACJ,CCLA,KACI,kBACJ","file":"main.dcc7720e.chunk.css","sourcesContent":[".pet-date{\n    background: white;\n    border-radius: 5px;\n    padding: 10px 20px;\n    margin: 10px 0;\n}","body {\n    background: #efefef;\n}"]}
